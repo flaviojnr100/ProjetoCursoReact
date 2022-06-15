@@ -6,6 +6,10 @@
     margin: 0.5%;
 }
 
+.project_card:hover{
+    transform: translate(0px,-5px);
+    box-shadow: 5px 5px 20px rgb(102, 102, 102);
+}
 .project_card h4{
     background-color: #222;
     color: #ffbb33;
@@ -75,4 +79,5 @@
 .project_card_actions button:hover{
     background-color: #222;
     color:#ffbb33;
+    
 }
