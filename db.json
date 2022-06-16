@@ -31,8 +31,15 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Dev php",
+          "cost": "2000",
+          "description": "Programador",
+          "id": "2ce19172-df36-4af9-9b87-aa45635846bd"
+        }
+      ],
       "id": 3
     },
     {
